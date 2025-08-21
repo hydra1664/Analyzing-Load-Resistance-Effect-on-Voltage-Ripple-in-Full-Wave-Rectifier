@@ -1,0 +1,1 @@
+# Analyzing-Load-Resistance-Effect-on-Voltage-Ripple-in-Full-Wave-Rectifier
